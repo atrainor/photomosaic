@@ -17,10 +17,13 @@ Python 2.x, numpy, cv2, pandas
 
 ## Examples
 
-### Simple Algorithm
+### Flower Image
 
 #### Flower Image Original 
 ![Alt text](/input_output/flowers.jpg?raw=true "Original Image")
+
+#### Simple Algorithm Results: 
+
 
 ##### 50 x 50 Tile Replacement
 ![Alt text](/input_output/simple_mosaic_50flowers.jpg?raw=true "50 x 50 Tile Replacement")
@@ -34,10 +37,7 @@ Python 2.x, numpy, cv2, pandas
 ##### 5 x 5 Tile Replacement
 ![Alt text](/input_output/simple_mosaic_5flowers.jpg?raw=true "5 x 5 Tile Replacement")
 
-### Complex Algorithm
-
-#### Flower Image Original 
-![Alt text](/input_output/flowers.jpg?raw=true "Original Image")
+#### Complex Algorithm Results:
 
 ##### 50 x 50 Tile Replacement
 ![Alt text](/input_output/advanced_mosaic_50flowers.jpg?raw=true "50 x 50 Tile Replacement")
@@ -50,4 +50,39 @@ Python 2.x, numpy, cv2, pandas
 
 ##### 5 x 5 Tile Replacement
 ![Alt text](/input_output/advanced_mosaic_5flowers.jpg?raw=true "5 x 5 Tile Replacement")
+
+### Cat Image
+
+#### Cat Image Original 
+![Alt text](/input_output/cute_cat.jpg?raw=true "Original Image")
+
+#### Simple Algorithm Results: 
+
+
+##### 50 x 50 Tile Replacement
+![Alt text](/input_output/simple_mosaic_50cute_cat.jpg?raw=true "50 x 50 Tile Replacement")
+
+##### 20 x 20 Tile Replacement
+![Alt text](/input_output/simple_mosaic_20cute_cat.jpg?raw=true "20 x 20 Tile Replacement")
+
+##### 10 x 10 Tile Replacement
+![Alt text](/input_output/simple_mosaic_10cute_cat.jpg?raw=true "10 x 10 Tile Replacement")
+
+##### 5 x 5 Tile Replacement
+![Alt text](/input_output/simple_mosaic_5cute_cat.jpg?raw=true "5 x 5 Tile Replacement")
+
+#### Complex Algorithm Results:
+
+##### 50 x 50 Tile Replacement
+![Alt text](/input_output/advanced_mosaic_50cute_cat.jpg?raw=true "50 x 50 Tile Replacement")
+
+##### 20 x 20 Tile Replacement
+![Alt text](/input_output/advanced_mosaic_20cute_cat.jpg?raw=true "20 x 20 Tile Replacement")
+
+##### 10 x 10 Tile Replacement
+![Alt text](/input_output/advanced_mosaic_10cute_cat.jpg?raw=true "10 x 10 Tile Replacement")
+
+##### 5 x 5 Tile Replacement
+![Alt text](/input_output/advanced_mosaic_5cute_cat.jpg?raw=true "5 x 5 Tile Replacement")
+
 
