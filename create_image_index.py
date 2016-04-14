@@ -17,6 +17,7 @@ def main():
 	        full_path = os.path.join(root, f)
 	        if os.path.splitext(full_path)[1] in ['.jpg', '.png']:
 	            print "Indexing file: " + f
+	            image = cv2.imread(full_path)
 	            means = cv2.mean(image)[:3]
 	            to_index = [full_path, means[0], means[1], means[2]]
 	            images.append(to_index)
